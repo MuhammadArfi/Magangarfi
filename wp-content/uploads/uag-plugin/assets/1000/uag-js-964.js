@@ -18,7 +18,4 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 						}
 					} );
 				} );
-			window.addEventListener( 'load', function() {
-	UAGBButtonChild.init( '.uagb-block-0dd1852b' );
-});
- });
+			 });
